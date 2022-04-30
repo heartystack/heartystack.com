@@ -1,3 +1,9 @@
+# Project-specific
+db.json
+public/
+.deploy*/
+_multiconfig.yml
+
 # Logs
 logs
 *.log

@@ -104,7 +104,7 @@ theme: pure
 deploy:
   type: git
   repo: https://github.com/heartystack/heartystack.com
-  # branch: [branch]
+  branch: gh-pages
   # message: [message]
 
 # Plugins

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HeartyStack</title>
+  <icon>https://heartystack.com/images/avatar.jpg</icon>
+  <subtitle>The fullest of stacks!</subtitle>
+  <link href="https://heartystack.com/atom.xml" rel="self"/>
+  
+  <link href="https://heartystack.com/"/>
+  <updated>2022-04-30T22:51:28.502Z</updated>
+  <id>https://heartystack.com/</id>
+  
+  <author>
+    <name>Hearty Stack</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First post!</title>
+    <link href="https://heartystack.com/posts/first-post/"/>
+    <id>https://heartystack.com/posts/first-post/</id>
+    <published>2022-04-30T22:46:31.000Z</published>
+    <updated>2022-04-30T22:51:28.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>I'm trying out <a href="https://hexo.io">Hexo</a> for this site and so far I'm really impressed. The theme is based on <a href="https://github.com/cofess/hexo-theme-pure">Pure</a> by <a href="https://github.com/cofess">Cofess</a>, but I've already made a ton of changes and will probably make my own fork soon.</p><p>One thing that's intimidating about Hexo is that many of the themes, plugins, and resources are in Chinese. I won't let that stop me!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I&#39;m trying out &lt;a href=&quot;https://hexo.io&quot;&gt;Hexo&lt;/a&gt; for this site and so far I&#39;m really impressed. The theme is based on &lt;a href=&quot;https://g</summary>
+      
+    
+    
+    
+    
+    <category term="beginnings" scheme="https://heartystack.com/tags/beginnings/"/>
+    
+  </entry>
+  
+</feed>
